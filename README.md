@@ -1,1 +1,1 @@
-This project estimates the causal effects of online medical record (OMR) on medical decision making using the Health Information National Trends Survey (HINTS) data. 
+This project estimates the causal effects of online medical record (OMR) on medical decision making using the Health Information National Trends Survey (HINTS) data. We employ some traditional econometric models and some model-based estimates from machine learning.
